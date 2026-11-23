@@ -1,0 +1,42 @@
+{
+  "Header": {
+    "brand": "Saga Spacehub",
+    "year": "2026"
+  },
+  "Profile": {
+    "greeting": "Halo, saya {name}.",
+    "tagline": "Tempat untuk mengenal saya, melihat karya, dan menemukan hal lainnya.",
+    "availability": "Terbuka untuk Peluang Baru",
+    "location": "Indonesia",
+    "roles": ["Software Engineer", "Full Stack Developer", "Frontend Engineer"]
+  },
+  "Links": {
+    "about": {
+      "label": "Portofolio Saya",
+      "description": "Sedikit tentang saya, latar belakang, dan perjalanan saya."
+    },
+    "github": {
+      "label": "GitHub",
+      "description": "@basganajaah"
+    },
+    "projects": {
+      "label": "Proyek",
+      "description": "Berbagai proyek yang pernah saya kerjakan."
+    },
+    "linkedin": {
+      "label": "LinkedIn",
+      "description": "Terhubung dengan saya secara profesional."
+    },
+    "resume": {
+      "label": "Resume / CV",
+      "description": "Pengalaman, keahlian, dan latar belakang saya."
+    },
+    "contact": {
+      "label": "Kontak",
+      "description": "Mari terkoneksi dan berkolaborasi."
+    }
+  },
+  "Footer": {
+    "credit": "Dibuat oleh {name}."
+  }
+}

@@ -1,0 +1,36 @@
+:root {
+  --bg: #0b0c10;
+  --shell: #121319;
+  --border: rgba(255, 255, 255, 0.09);
+  --fg: #f3f4f7;
+  --fg-soft: #b4b9c6;
+  --muted: #858b9a;
+  --focus: #7aa2ff;
+  color-scheme: dark;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  height: 100dvh;
+  overflow: hidden; /* single-screen dashboard: never scroll */
+  overscroll-behavior: none;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-sans), system-ui, -apple-system, "Segoe UI", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+a {
+  color: inherit;
+}
