@@ -12,7 +12,7 @@
   },
   "Links": {
     "about": {
-      "label": "About Me",
+      "label": "My Portofolio",
       "description": "A bit about me, my background, and what I do."
     },
     "github": {
@@ -33,7 +33,7 @@
     },
     "contact": {
       "label": "Contact",
-      "description": "Let's connected and collaborate."
+      "description": "Reach me out and collaborate."
     }
   },
   "Footer": {
