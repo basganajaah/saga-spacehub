@@ -93,7 +93,7 @@ export const links: HubLink[] = [
     id: "resume",
     label: "Resume / CV",
     description: "Explore my professional experience.",
-    href: "https://drive.google.com/file/d/1aAmQM3gMsqNH7MFcPH72MBSRqb2kgjoH/view?usp=drive_link",
+    href: "https://drive.google.com/file/d/1N-V-NEyuWU1Gs_aWYxeRQ7zCuS7saRVb/view?usp=drive_link",
     icon: "file",
     tone: "slate",
     external: true,
